@@ -1,0 +1,2 @@
+# javascriptstarting
+self learning
